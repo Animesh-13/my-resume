@@ -1,3 +1,3 @@
 # My Resume
 
-[Click to see Resume](https://rajatverma311201.github.io/rajat-resume/)
+[Click to see Resume](https://animesh-13.github.io/my-resume/)
